@@ -1,7 +1,8 @@
 # CBT164
 Converted to GitHub via [cbt2git](https://github.com/wizardofzos/cbt2git)
 
-This is still a work in progress. GitHub repos will be deleted and created during this period...
+This is still a work in progress. 
+Due to amazing work by Alison Zhang and Jake Choi repos are no longer deleted.
 
 ```
 //***FILE 164 IS FROM RICK STECKER OF SYNECTICS FOR MANAGEMENT      *   FILE 164
